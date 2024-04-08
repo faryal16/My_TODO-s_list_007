@@ -1,7 +1,7 @@
 {
-  "name": "todos_list_007",
+  "name": "my_atm_007",
   "version": "1.0.2",
-  "description": "",
+  "description": "you can get your money whereever you want",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
@@ -14,10 +14,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^9.2.17",
-    "todos_list_007": "^1.0.0"
+    "inquirer": "^9.2.16",
+    "my_atm_007": "^1.0.2"
   },
   "devDependencies": {
-    "@types/inquirer": "^9.0.7"
+    "@types/inquirer": "^9.0.7",
+    "@types/jquery": "^3.5.29"
   }
 }
